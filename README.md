@@ -1,2 +1,2 @@
-# DIO-APP-Simples-S-rie--CRUD--DOTNET
+# DIO-APP-Simples - Catálogo de Séries em .NET
 Projeto Bootcamp DIO - C#
