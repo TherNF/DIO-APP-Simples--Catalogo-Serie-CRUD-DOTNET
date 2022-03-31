@@ -1,0 +1,15 @@
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\obj\Debug\net6.0\CatalogoSeries.csproj.AssemblyReference.cache
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\obj\Debug\net6.0\CatalogoSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\obj\Debug\net6.0\CatalogoSeries.AssemblyInfoInputs.cache
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\obj\Debug\net6.0\CatalogoSeries.AssemblyInfo.cs
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\obj\Debug\net6.0\CatalogoSeries.csproj.CoreCompileInputs.cache
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\bin\Debug\net6.0\CatalogoSeries.exe
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\bin\Debug\net6.0\CatalogoSeries.deps.json
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\bin\Debug\net6.0\CatalogoSeries.runtimeconfig.json
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\bin\Debug\net6.0\CatalogoSeries.dll
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\bin\Debug\net6.0\CatalogoSeries.pdb
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\obj\Debug\net6.0\CatalogoSeries.dll
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\obj\Debug\net6.0\refint\CatalogoSeries.dll
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\obj\Debug\net6.0\CatalogoSeries.pdb
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\obj\Debug\net6.0\CatalogoSeries.genruntimeconfig.cache
+D:\workspace\CRUD- DIO SERIES\CatalogoSeries\obj\Debug\net6.0\ref\CatalogoSeries.dll
